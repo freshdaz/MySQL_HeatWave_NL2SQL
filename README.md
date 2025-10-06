@@ -10,10 +10,16 @@ With the Natural Language to SQL feature in MySQL HeatWave, we’re witnessing a
 ## Ask Your Database Anything: Natural Language to SQL in MySQL HeatWave
 https://dasini.net/blog/2025/09/30/ask-your-database-anything-natural-language-to-sql-in-mysql-heatwave/
 
+<ins>Related file</ins>: nl2sql_world.sql
+
 ----
 
-
 ## Let Your AI DBA Assistant Write Your MySQL Queries
+
+
+<ins>Video related</ins>:
+https://youtu.be/zFQBxuZW634
+
 
 
 > The script (```nl2sql4dba.py```), is provided for illustrative purposes only. It may contain errors or limitations. Please use it at your own risk and adapt it to your specific needs (also feel free to share back).
@@ -32,3 +38,12 @@ DB_CONFIG = {
 }
 
 ```
+
+
+---------------------------------
+
+# Follow me
+* Blog EN            : https://dasini.net/blog/en/
+* Linkedin           : https://www.linkedin.com/in/olivier-dasini
+* Data Daz           : https://www.linkedin.com/groups/12524512/
+* Presentations      : https://speakerdeck.com/freshdaz
