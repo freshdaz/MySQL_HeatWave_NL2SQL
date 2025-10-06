@@ -17,7 +17,7 @@ https://dasini.net/blog/2025/09/30/ask-your-database-anything-natural-language-t
 ## Let Your AI DBA Assistant Write Your MySQL Queries
 
 
-<ins>Video related</ins>:
+<ins>Related video</ins>:
 https://youtu.be/zFQBxuZW634
 
 
