@@ -9,3 +9,8 @@ With the Natural Language to SQL feature in MySQL HeatWave, we’re witnessing a
 
 ## Ask Your Database Anything: Natural Language to SQL in MySQL HeatWave
 https://dasini.net/blog/2025/09/30/ask-your-database-anything-natural-language-to-sql-in-mysql-heatwave/
+
+----
+
+
+## Let Your AI DBA Assistant Write Your MySQL Queries
