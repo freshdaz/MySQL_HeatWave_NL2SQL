@@ -16,7 +16,7 @@ https://dasini.net/blog/2025/09/30/ask-your-database-anything-natural-language-t
 ## Let Your AI DBA Assistant Write Your MySQL Queries
 
 
-> The code (```nl2sql4dba.py```), is provided for illustrative purposes only. It may contain errors or limitations. Please use it at your own risk and adapt it to your specific needs (also feel free to share back).
+> The script (```nl2sql4dba.py```), is provided for illustrative purposes only. It may contain errors or limitations. Please use it at your own risk and adapt it to your specific needs (also feel free to share back).
 ----
 ## Usage
 Update the ```config/config_heatwave.py``` file accordingly.
