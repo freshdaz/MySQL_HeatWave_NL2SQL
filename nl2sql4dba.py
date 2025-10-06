@@ -1,3 +1,7 @@
+# This script is provided for illustrative purposes only. 
+# It may contain errors or limitations. 
+# Please use it at your own risk and adapt it to your specific needs (also feel free to share back).
+
 import streamlit as st
 import mysql.connector
 import pandas as pd
