@@ -10,14 +10,14 @@ With the Natural Language to SQL feature in MySQL HeatWave, we’re witnessing a
 ## Ask Your Database Anything: Natural Language to SQL in MySQL HeatWave
 https://dasini.net/blog/2025/09/30/ask-your-database-anything-natural-language-to-sql-in-mysql-heatwave/
 
-<ins>Related file</ins>: nl2sql_world.sql
+_<ins>Related file</ins>_: nl2sql_world.sql
 
 ----
 
 ## Let Your AI DBA Assistant Write Your MySQL Queries
 
 
-<ins>Related video</ins>:
+_<ins>Related video</ins>_:
 https://youtu.be/zFQBxuZW634
 
 
