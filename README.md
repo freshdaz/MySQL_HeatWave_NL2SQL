@@ -14,3 +14,21 @@ https://dasini.net/blog/2025/09/30/ask-your-database-anything-natural-language-t
 
 
 ## Let Your AI DBA Assistant Write Your MySQL Queries
+
+
+> The code (nl2sql4dba.py), is provided for illustrative purposes only. It may contain errors or limitations. Please use it at your own risk and adapt it to your specific needs (also feel free to share back).
+----
+## Usage
+Update the ```config/config_heatwave.py``` file accordingly.
+
+Ex:
+```
+DB_CONFIG = {
+    "host": "10.1.0.123",           # MySQL HeatWave IP
+    "user": "MyAppUser",            # MySQL HeatWave user name
+    "password": "SeCr3(P4$$W0rd!",  # MySQL HeatWave User password
+    "database": "nl2sql",           # MySQL Database name
+    "port": 3306                    # MySQL HeatWave port
+}
+
+```
