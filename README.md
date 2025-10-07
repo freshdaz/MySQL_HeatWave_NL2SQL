@@ -15,7 +15,7 @@ _<ins>Related file</ins>_: nl2sql_world.sql
 ----
 
 ## Let Your AI DBA Assistant Write Your MySQL Queries
-
+https://dasini.net/blog/2025/10/07/let-your-ai-dba-assistant-write-your-mysql-queries/
 
 _<ins>Related video</ins>_:
 https://youtu.be/zFQBxuZW634
